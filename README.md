@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project comes from The Odin Project - the task is to build a recipes website using basic HTML. This project requires knowledge of several foundational programming concepts, such as basic git commands, terminal commands, and file organization, and many more HTML-specific concepts, such as HTML file structure, elements, tags, attributes, headers, paragraphs, ordered and unordered lists, absolute and relative links, and images.
